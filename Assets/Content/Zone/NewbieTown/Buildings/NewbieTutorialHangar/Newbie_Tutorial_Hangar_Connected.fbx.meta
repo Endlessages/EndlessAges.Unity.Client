@@ -1,19 +1,35 @@
 fileFormatVersion: 2
-guid: f677e5e073c4fc846af018fd7de5b3ac
-timeCreated: 1495869166
+guid: 75685e39c62c52a40bf76dd788351206
+timeCreated: 1496011370
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: DrawCall_14
-    100002: //RootNode
-    100004: Root
-    400000: DrawCall_14
-    400002: //RootNode
-    400004: Root
-    2300000: DrawCall_14
-    3300000: DrawCall_14
-    4300000: DrawCall_14
+    100000: DrawCall_16_1
+    100002: DrawCall_16_2_1
+    100004: DrawCall_16_3_1
+    100006: //RootNode
+    100008: Newbie_Tutorial_Hangar_End
+    100010: Newbie_Tutorial_Hangar_Middle
+    100012: Newbie_Tutorial_Hangar_Start
+    100014: Root
+    400000: DrawCall_16_1
+    400002: DrawCall_16_2_1
+    400004: DrawCall_16_3_1
+    400006: //RootNode
+    400008: Newbie_Tutorial_Hangar_End
+    400010: Newbie_Tutorial_Hangar_Middle
+    400012: Newbie_Tutorial_Hangar_Start
+    400014: Root
+    2300000: DrawCall_16_1
+    2300002: DrawCall_16_2_1
+    2300004: DrawCall_16_3_1
+    3300000: DrawCall_16_1
+    3300002: DrawCall_16_2_1
+    3300004: DrawCall_16_3_1
+    4300000: DrawCall_16_1
+    4300002: DrawCall_16_2_1
+    4300004: DrawCall_16_3_1
   materials:
     importMaterials: 1
     materialName: 0
